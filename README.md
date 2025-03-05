@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sira</h1>
 - 🌱 I’m currently learning **Mobile Developer flutter and Backend Golang**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/sirajudinkytk/](https://www.linkedin.com/in/sirajudinkytk/)
-
 - 📫 How to reach me **sirakytk@gmail.com**
 
 - ⚡ Fun fact **Me is me**
