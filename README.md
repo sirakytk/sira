@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sira</h1>
-<img  src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjRhZWx2YzAwZTVjczFmYTV2djVtdGRlMDhiNTY3cTE1MmRibjYwMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U4FkC2VqpeNRHjTDQ5/giphy.gif" width="300px" align="right" alt="">
+<img  src="https://media.giphy.com/media/U4FkC2VqpeNRHjTDQ5/giphy.gif?cid=ecf05e47jg03jhbewtm6lae82fo1ohepyd434jtpo80hg47f&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300px" align="right" alt="">
 - 🌱 I’m currently learning **Mobile Developer flutter and Backend Golang**
 
 - 📫 How to reach me **sirakytk@gmail.com**
